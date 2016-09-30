@@ -1,0 +1,12 @@
+Milk
+25
+Juice
+22
+Oil
+19
+Cheese
+25
+Bread
+8
+Egg
+15
