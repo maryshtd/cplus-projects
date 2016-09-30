@@ -1,0 +1,18 @@
+﻿Build started 01.07.2016 19:49:03.
+     1>Project "D:\MShtoda\CPP_Vektor_0107\CPP_Vektor_0107\CPP_Vektor_0107.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CPP_Vektor_0107.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CPP_Vektor_0107.cpp Vector.cpp
+         Vector.cpp
+     1>d:\mshtoda\cpp_vektor_0107\cpp_vektor_0107\vector.cpp(51): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+         CPP_Vektor_0107.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MShtoda\CPP_Vektor_0107\Debug\CPP_Vektor_0107.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MShtoda\CPP_Vektor_0107\Debug\CPP_Vektor_0107.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MShtoda\CPP_Vektor_0107\Debug\CPP_Vektor_0107.lib" /MACHINE:X86 Debug\CPP_Vektor_0107.obj
+         Debug\stdafx.obj
+         Debug\Vector.obj
+         CPP_Vektor_0107.vcxproj -> D:\MShtoda\CPP_Vektor_0107\Debug\CPP_Vektor_0107.exe
+     1>Done Building Project "D:\MShtoda\CPP_Vektor_0107\CPP_Vektor_0107\CPP_Vektor_0107.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55
