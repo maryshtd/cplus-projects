@@ -1,21 +1,16 @@
-﻿Build started 24-Jun-16 15:47:59.
-     1>Project "C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Cpp1_Shtoda\Cpp1_Shtoda.vcxproj" on node 2 (Build target(s)).
+﻿Build started 05-Oct-16 16:40:21.
+     1>Project "D:\С++ Projects\Cpp1_Shtoda\Cpp1_Shtoda\Cpp1_Shtoda.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Cpp1_Shtoda.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cpp1_Shtoda.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Cpp1_Shtoda.cpp Date.cpp Menu.cpp
-         Menu.cpp
-         Date.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Cpp1_Shtoda.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Cpp1_Shtoda.cpp
          Cpp1_Shtoda.cpp
-         Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Debug\Cpp1_Shtoda.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Debug\Cpp1_Shtoda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Debug\Cpp1_Shtoda.lib" /MACHINE:X86 Debug\Cpp1_Shtoda.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\С++ Projects\Cpp1_Shtoda\Debug\Cpp1_Shtoda.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\С++ Projects\Cpp1_Shtoda\Debug\Cpp1_Shtoda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\С++ Projects\Cpp1_Shtoda\Debug\Cpp1_Shtoda.lib" /MACHINE:X86 Debug\Cpp1_Shtoda.obj
          Debug\Date.obj
          Debug\Menu.obj
          Debug\stdafx.obj
-         Cpp1_Shtoda.vcxproj -> C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Debug\Cpp1_Shtoda.exe
-     1>Done Building Project "C:\Users\m.shtoda\Google Drive\3 ItStep\2 сем\С++\Cpp1_Shtoda\Cpp1_Shtoda\Cpp1_Shtoda.vcxproj" (Build target(s)).
+         Cpp1_Shtoda.vcxproj -> D:\С++ Projects\Cpp1_Shtoda\Debug\Cpp1_Shtoda.exe
+     1>Done Building Project "D:\С++ Projects\Cpp1_Shtoda\Cpp1_Shtoda\Cpp1_Shtoda.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.08
+Time Elapsed 00:00:00.31
